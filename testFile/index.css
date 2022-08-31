@@ -1,0 +1,41 @@
+
+        .box{
+            position: relative;
+            width: 400px;
+            margin: 100px auto;
+            border-bottom: 1px solid #ccc;
+        }
+        .box input{
+            width: 370px;
+            height: 30px;
+            border: 0;
+            outline: none;
+        }
+        .box label{
+            position: absolute;
+            top: 2px;
+            right: 2px;
+        }
+        /* 第二个案例 */
+        .box1{
+            position: relative;
+            margin: 100px auto;
+            text-align: center;
+            width: 100px;
+            height: 159px;
+        }
+        .box1 p{
+            margin: 0;
+            color: #d81e06;
+        }
+        .box1 img{
+            width: 100px;
+        }
+        .box1 .close-button{
+            position: absolute;
+            font-size: larger;
+            top: -7px;
+            left: -11px;
+            cursor: pointer;
+        }
+    undefined
